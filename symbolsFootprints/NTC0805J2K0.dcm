@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NTC0805J2K0
+D Dimensions: Product Length 2 MM | Product Length .078 INCH | Product Height .019 INCH | Product Width .049 INCH | Product Width 1.25 MM | Product Height .5 MM | Electrical Characteristics: Resistance Value 2K OHM | Passive Component Tolerance 5 PCT | Operation/Application: Mode of Operation Negative Temperature Coefficient | Other: Beta Value 3000 K | Packaging Features: Packaging Method Taped & Reeled | Product Type Features: Package Size Code 0805 |
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773258&DocType=Data%20Sheet&DocLang=English&PartCntxt=1624354-2&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library
